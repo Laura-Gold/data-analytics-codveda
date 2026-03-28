@@ -48,6 +48,5 @@ This repository contains my completed data analytics tasks across three levels, 
 * Jupyter Notebook
 
 # Author
-**Laura Arowolo**
 
 **Laura Arowolo**
