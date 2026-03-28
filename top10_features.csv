@@ -1,0 +1,11 @@
+Feature,Importance
+total_charge,0.14478358191822227
+customer_service_calls,0.13771858162920833
+total_day_charge,0.07526815485675077
+total_day_minutes,0.07213695254058596
+international_plan,0.06737789659637698
+total_intl_calls,0.05116456690447408
+area_code,0.036561411157491445
+total_intl_minutes,0.03173639941311562
+total_intl_charge,0.03155690249473533
+total_eve_minutes,0.02877728306624673
